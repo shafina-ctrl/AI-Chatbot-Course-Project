@@ -18,3 +18,4 @@ while True:
     if user_input.lower() in ["exit", "quit"]:
         break
     print("Chatbot:", chatbot_response(user_input))
+atau untuk versi web:
